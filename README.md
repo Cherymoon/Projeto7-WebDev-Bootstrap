@@ -1,4 +1,4 @@
-# Projeto2-Bootstrap
+# Projeto7-Bootstrap
 Segundo projeto em Bootstrap realizado no curso de DevWeb.
 
 Segundo projeto em curso com Bootstrap.
